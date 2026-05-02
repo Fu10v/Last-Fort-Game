@@ -19,3 +19,10 @@ In the game, the player places defensive towers to defend a base from waves of e
 - **Unity** 2022.3.1f1
 - **C#**
 - **TextMeshPro**, **NavMesh**, **PiUI**, **Beautify**, **Unity Jobs System**
+
+## Project link: https://drive.google.com/drive/folders/17vEdWPnVqOkZgcFv7hLaB52uPKe6fUBr?usp=drive_link
+
+## Contact
+
+Author: Petro Luchaninov
+Email: luchaninovp5@gmail.com
