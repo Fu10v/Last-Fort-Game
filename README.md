@@ -26,3 +26,10 @@ In the game, the player places defensive towers to defend a base from waves of e
 
 Author: Petro Luchaninov
 Email: luchaninovp5@gmail.com
+
+## Screenshots
+
+<img width="1004" height="564" alt="image" src="https://github.com/user-attachments/assets/1649f384-3621-4201-bee4-38c2435d122d" />
+<img width="823" height="463" alt="image" src="https://github.com/user-attachments/assets/d8faf2f6-5e78-404e-87f6-d93f0fb46a06" />
+<img width="816" height="459" alt="image" src="https://github.com/user-attachments/assets/0cd1e571-631e-4a90-9d56-770c3fe6dc60" />
+<img width="827" height="465" alt="image" src="https://github.com/user-attachments/assets/64e9dcdc-39fb-4543-8bf1-bbb9f284764f" />
